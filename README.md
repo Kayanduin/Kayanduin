@@ -4,15 +4,6 @@
 - 📜 Studying PHP;
 - 📖 Reading Clean Code by Uncle Bob.
 
-<div align="center">
-    <a href="https://github.com/Kayanduin">
-        <img height="180em"
-            src="https://github-readme-stats.vercel.app/api?username=Kayanduin&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-        <img height="180em"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayanduin&layout=compact&langs_count=7&theme=dark" />
-    </a>
-</div>
-<br>
 These are the languages and technologies i have been working recently.
 <div align="center" style="display: inline_block"><br>
     <a href="https://github.com/Kayanduin">
