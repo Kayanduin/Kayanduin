@@ -1,8 +1,7 @@
 ## Hi! I'm Rafael Farias!
 
 - 💻 Currently, I'm working as a Backend Developer at [Webjump](https://webjump.com.br/);
-- 📜 Studying PHP;
-- 📖 Reading Clean Code by Uncle Bob.
+- 📜 Studying Web Development.
 
 These are the languages and technologies i have been working recently.
 <div align="center" style="display: inline_block"><br>
